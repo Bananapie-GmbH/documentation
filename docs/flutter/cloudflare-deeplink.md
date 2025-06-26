@@ -182,8 +182,8 @@ Replace the following placeholders in the worker code:
    - `YOUR_SHA256_CERT_FINGERPRINT_HERE` - Your Android app's SHA256 fingerprint (You can find them in Google Play console)
 
 2. **iOS Worker Placeholders**  
-   - `YOUR_TEAM_ID.YOUR_BUNDLE_IDENTIFIER` - Your complete App ID (e.g., `"5UXAUPVR5R.com.expelino.app"`)
-     - `YOUR_TEAM_ID` - Your iOS Team ID (10-character string like `"5UXAUPVR5R"`)
+   - `YOUR_TEAM_ID.YOUR_BUNDLE_IDENTIFIER` - Your complete App ID (e.g., `"XXXXX.com.expelino.app"`)
+     - `YOUR_TEAM_ID` - Your iOS Team ID (10-character string like `"XXXXX"`)
      - `YOUR_BUNDLE_IDENTIFIER` - Your iOS bundle identifier (like `"com.expelino.app"`)
 
 3. **Main Worker Placeholders**
